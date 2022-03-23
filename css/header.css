@@ -14,6 +14,8 @@
     margin-left: 35px;
     margin-top: 17px;
     text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
     color: black;
     font-size: 14px;
 }
@@ -24,6 +26,8 @@
     border: 2px solid #D3A863;
     background-color: #D3A863;
     text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
     color: white;
     font-size: 14px;
     padding-top: 13px;

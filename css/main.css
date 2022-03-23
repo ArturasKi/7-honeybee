@@ -1,5 +1,5 @@
 .honeybee {
-    width: 50%;
+    width: 40%;
     float: left;
     height: 0s;
     margin-top: 180px;
@@ -7,11 +7,14 @@
 
 .honeybee > .para-1 {
     width: 100%;
+    float: left;
     font-weight: bold;
+    letter-spacing: 2px;
 }
 
 .h-1 {
     width: 100%;
+    margin-top: 15px;
     float: left;
     font-size: 80px;
 }
@@ -19,15 +22,33 @@
 .para-2 {
     width: 100%;
     float: left;
+    color: #585451;
+    margin-top: 20px;
+    padding-right: 10%;
+    font-size: 14px;
+    letter-spacing: 1px;
 }
 
 .main-button-1 {
-    width: 100%;
+    width: 152px;
+    margin-right: 40%;
     float: left;
+    margin-top: 40px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    border: 2px solid #C74919;
+    background-color: #C74919;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .img-pure {
-    width: 50%;
+    width: 60%;
     height: 600px;
     margin-top: 50px;
 }
