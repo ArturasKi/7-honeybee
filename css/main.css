@@ -10,6 +10,7 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     width: 1200px;
     margin-left: calc(50% - 500px);
+    background-color: #F8F3F0;
 }
 
 .head {
@@ -55,5 +56,34 @@ body {
 .honeybee {
     width: 50%;
     float: left;
+    height: 600px;
+    margin-top: 180px;
+}
+
+.honeybee > .para-1 {
+    width: 100%;
+    font-weight: bold;
+}
+
+.h-1 {
+    width: 100%;
+    float: left;
+    font-size: 80px;
+}
+
+.para-2 {
+    width: 100%;
+    float: left;
+}
+
+.main-button-1 {
+    width: 100%;
+    float: left;
+}
+
+.img-pure {
+    width: 50%;
+    height: 600px;
     margin-top: 50px;
 }
+
