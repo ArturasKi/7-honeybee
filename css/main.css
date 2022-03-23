@@ -122,3 +122,35 @@
     font-size: 16px;
     color: #585451;
 }
+
+.products {
+    width: 100%;
+    float: left;
+    margin-top: 70px;
+}
+
+.h-4 {
+    width: 100%;
+    margin-top: 15px;
+    float: left;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.text-3 {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #585451;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.img-products {
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+}
