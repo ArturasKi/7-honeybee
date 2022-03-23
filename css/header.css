@@ -20,6 +20,10 @@
     font-size: 14px;
 }
 
+.head > .navigation-main > .navigation:hover {
+    color: #C74919;
+}
+
 .head > .navigation-main > .head-button {
     display: inline-block;
     margin-left: 20px;
