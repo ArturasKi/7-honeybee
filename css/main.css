@@ -63,12 +63,62 @@
     width: 35%;
     margin-top: 50px;
     float: right;
-    background-color: white;
-    height: 750px;
+    background-color: #FBFAF8;
+    height: 600px;
+    padding: 25px;
 }
 
 .beekeeper-column {
     width: 60%;
     float: left;
     margin-top: 20px;
+}
+
+.h-2 {
+    width: 100%;
+    margin-top: 15px;
+    float: left;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.date {
+    float: left;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 12px;
+    color: #C74919;
+}
+
+.h-3 {
+    width: 100%;
+    float: left;
+    margin-top: 15px;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text-1 {
+    float: left;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #585451;
+}
+
+.a-link {
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+
+.text-2 {
+    float: left;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #585451;
 }
