@@ -199,4 +199,13 @@
     letter-spacing: 1px;
 }
 
+.gallery {
+    margin-top: 40px;
+}
+
+.img-gallery {
+    width: 30%;
+    padding: 5px;
+    display: inline-block;
+}
 
