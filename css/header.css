@@ -1,8 +1,7 @@
 .head {
     width: 100%;
-    float: left;
-    top: 40px;
-    position: relative;
+    margin-top: 40px;
+    display: inline-block;
 }
 
 .head > .navigation-main {
@@ -26,7 +25,6 @@
 }
 
 .head > .navigation-main > .head-button {
-    display: inline-block;
     margin-left: 20px;
     border: 2px solid #D3A863;
     background-color: #D3A863;
@@ -39,4 +37,9 @@
     padding-bottom: 13px;
     padding-left: 40px;
     padding-right: 40px;
+    cursor: pointer;
+}
+
+.head > .navigation-main > .head-button:hover {
+    background-color: #C74919;
 }
