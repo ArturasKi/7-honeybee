@@ -209,3 +209,48 @@
     display: inline-block;
 }
 
+.newsletter {
+    width: 57%;
+    margin-top: 50px;
+    padding: 50px;
+    display: inline-block;
+}
+
+.img-honey {
+    margin-top: 50px;
+    width: 40%;
+}
+
+.h-6 {
+    width: 100%;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.email {
+    width: 60%;
+    margin-top: 20px;
+    padding: 10px;
+    line-height: 18px;
+    background-color: #F8F3F0;
+    border: 1px solid #585451;
+}
+
+.btn-sub {
+    margin-top: 20px;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 2px solid #D3A863;
+    background-color: #D3A863;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.btn-sub:hover {
+    background-color: #C74919;
+}
