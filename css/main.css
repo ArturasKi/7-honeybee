@@ -177,3 +177,26 @@
     font-size: 10px;
     text-decoration: none;
 }
+
+.girl {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.img-girl {
+    width: 30%;
+}
+
+.girl > .side-text {
+    display: inline-block;
+    padding: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 600px;
+    font-size: 18px;
+    font-style: italic;
+    color: #585451;
+    letter-spacing: 1px;
+}
+
+
