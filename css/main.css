@@ -254,3 +254,11 @@
 .btn-sub:hover {
     background-color: #C74919;
 }
+
+.types {
+    display: inline-block;
+    margin-top: 50px;
+    width: 498px;
+    border: 2x solid red;
+    background-color: red;
+}
