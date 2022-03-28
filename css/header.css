@@ -43,3 +43,8 @@
 .head > .navigation-main > .head-button:hover {
     background-color: #C74919;
 }
+
+.contact {
+    text-decoration: none;
+    color: #fff;
+}
