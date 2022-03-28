@@ -67,10 +67,13 @@ body {
 }
 
 .input-2 {
-    width: 495px;
+    width: 400px;
     height: 100px;
     border-style: solid;
     border-radius: 4px;
+    resize: none;
+    padding: 5px 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .btn {
