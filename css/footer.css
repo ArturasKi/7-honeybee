@@ -1,0 +1,18 @@
+.img-footer {
+    display: block;
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.copy {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 9px;
+    color: #585451;
+}
